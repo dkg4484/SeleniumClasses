@@ -1,0 +1,12 @@
+WebTable:-
+------------------------------------------------------------------------
+
+1. Print all headers of web table:
+2. Retrieve and print number of rows in a web table:
+3. Find number of columns for each row:
+4. Retrieve name of book whose author is Mukesh:
+5. List all books whose price is greater than or equal to 1000.
+6. Print last row of table:
+7. Print total cost of all books listed in table:
+8. Retrieving cell value of specific column of specific row
+9. Finding column index using column name:
